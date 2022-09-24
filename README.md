@@ -1,2 +1,2 @@
 # practicum
-Dara Science Practicum Indonesia
+Data Science Practicum Indonesia
