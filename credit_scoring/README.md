@@ -34,7 +34,7 @@ Hipotesis project :
 1. Membuat kategori berdasarkan rentang
 2. Mengisi kolom-kolom dengan missing value dengan rata-rata berdasarkan range
 
-### D. Menhkategorikan data
+### D. Mengkategorikan data
 
 1. Mengkategorikan data kategorikal menjadi lebih umum
 2. Mengkategorikan data numerikal menjadi range
