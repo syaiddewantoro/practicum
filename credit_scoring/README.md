@@ -13,6 +13,36 @@ Hipotesis project :
 3. Apakah terdapat korelasi antara kelas ekonomi dengan kemampuan melunasi pinjaman tepat waktu?
 4. Apakah terdapat korelasi antara tujuan kredit dengan kemampuan melunasi pinjaman tepat waktu?
 
+## Tahapan dalam project
+
+### A. Ekplorasi data
+
+1. Menampilkan sampel
+2. Menghitung jumlah baris dan kolom
+3. Memeriksa missing value
+4. Memeriksa register
+5. Memeriksa duplikat
+
+### B. Transformasi Data
+
+1. Memperbaiki register 
+2. Memperbaiki value yang tidak wajar dari kolom-kolom
+3. Menghapus duplikat
+
+### C. Mengisi missing value
+
+1. Membuat kategori berdasarkan rentang
+2. Mengisi kolom-kolom dengan missing value dengan rata-rata berdasarkan range
+
+### D. Menhkategorikan data
+
+1. Mengkategorikan data kategorikal menjadi lebih umum
+2. Mengkategorikan data numerikal menjadi range
+
+### E. Memeriksa hipostesis
+
+Memeriksa hipotesis yang telah kita tentukan
+
 ### 1. Korelasi antara jumlah anak dengan kemampuan melunasi pinjaman tepat waktu
 
 1. Klien yang memliki 1 sampai 4 anak memiliki persentase yang hampir sama di angka 8% sampai 9%.
