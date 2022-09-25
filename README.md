@@ -1,4 +1,4 @@
-# practicum
+# Practicum
 Data Science Practicum Indonesia
 
 
