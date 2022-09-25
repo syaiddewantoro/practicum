@@ -46,7 +46,7 @@ Preferensi musik tidak terlalu berbeda selama seminggu di Springfield dan Shelby
 Ternyata preferensi musik pengguna dari Springfield dan Shelbyville sangat mirip.
 Hipotesis ketiga ditolak. Jika ada perbedaan preferensi, tidak dapat dilihat dari data ini.
 
-Catatan
+## Catatan
 
 Dalam proyek sesungguhnya, penelitian melibatkan pengujian hipotesis statistik, yang lebih tepat dan lebih kuantitatif. Perhatikan juga bahwa kamu tidak dapat selalu menarik kesimpulan tentang seluruh kota berdasarkan data dari satu sumber saja.
 
