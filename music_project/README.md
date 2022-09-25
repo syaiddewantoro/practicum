@@ -1,12 +1,13 @@
-Y.Music
+#Y.Music#
 
-Pendahuluan
+##Pendahuluan##
 
 Setiap kali kita melakukan penelitian, kita perlu merumuskan hipotesis yang kemudian dapat kita uji. Terkadang kita menerima hipotesis ini; tetapi terkadang kita juga menolaknya. Untuk membuat keputusan yang tepat, sebuah bisnis harus dapat memahami apakah asumsi yang dibuatnya benar atau tidak.
 
 Dalam proyek kali ini, Anda akan membandingkan preferensi musik kota Springfield dan Shelbyville. Anda akan mempelajari data Y.Music yang sebenarnya untuk menguji hipotesis di bawah ini dan membandingkan perilaku pengguna di kedua kota ini.
 
-Tahapan
+##Tahapan##
+
 Data tentang perilaku pengguna disimpan dalam berkas /datasets/music_project_en.csv. Tidak ada informasi tentang kualitas data, jadi Anda perlu memeriksanya lebih dahulu sebelum menguji hipotesis.
 
 Pertama, Anda akan mengevaluasi kualitas data dan melihat apakah masalahnya signifikan. Kemudian, selama pra-pemrosesan data, Anda akan mencoba memperhitungkan masalah yang paling serius.
@@ -17,14 +18,14 @@ Ikhtisar data
 Pra-pemrosesan data
 Menguji hipotesis
 
-Kesimpulan
+##Kesimpulan##
 
 Hipotesis terbukti benar sebagian:
 
 Musik pop adalah genre paling populer di Springfield, seperti yang diharapkan.
 Namun, musik pop ternyata sama populernya baik di Springfield maupun di Shelbyville, dan musik rap tidak berada di 5 besar untuk kedua kota tersebut.
 
-Temuan
+##Temuan##
 
 Kita telah menguji tiga hipotesis berikut:
 
