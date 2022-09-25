@@ -43,7 +43,7 @@ Hipotesis project :
 
 Memeriksa hipotesis yang telah kita tentukan
 
-### 1. Korelasi antara jumlah anak dengan kemampuan melunasi pinjaman tepat waktu
+#### 1. Korelasi antara jumlah anak dengan kemampuan melunasi pinjaman tepat waktu
 
 1. Klien yang memliki 1 sampai 4 anak memiliki persentase yang hampir sama di angka 8% sampai 9%.
 2. Klien yang memiliki 5 anak tidak memiliki hutang pembayaran pinjaman tatapi tidak bisa kita jadikan acuan karena jumlah data terlalu sedikit.
@@ -51,21 +51,21 @@ Memeriksa hipotesis yang telah kita tentukan
 
 Hal ini tentu akan memudahkan dalam pengambilan keputusan kita dalam memberikan kredit kepada klien yang belum memiliki anak karena kemampuan mereka dalam melunasi kredit mereka.
 
-### 2. Korelasi antara status keluarga dengan kemampuan melunasi pinjaman tepat waktu
+#### 2. Korelasi antara status keluarga dengan kemampuan melunasi pinjaman tepat waktu
 
 Ada beberapa hal menarik yang kita temukan disini:
 1. Klien yang unmarried dan civil partnership memiliki persentase yang cukup tinggi sebesar 9%.
 2. Klien yang divorced dan married memiliki rasio sebesar 7% yang artinya lebih kecil daripada klien yang belum menikah apakah karena mereka dapat menggabungkan penghasilan dengan pasangan mereka, hal ini tentu berbanding terbalik dengan pengujian sebelumnya bahwa klien yang belum memiliki anak memiliki persentase hutang lebih kecil mengingat seseorang yang telah menikah punya kecenderungan untuk memiliki anak.
 3. Klien dengan status widow / widower memiliki pensentase hutang paling kecil sebesar 6%. Apakah kita akan mempertimbangkan status sebagai dasar dalam pengambilan keputusan?
 
-### 3. Korelasi antara kelas ekonomi dengan kemampuan melunasi pinjaman tepat waktu
+#### 3. Korelasi antara kelas ekonomi dengan kemampuan melunasi pinjaman tepat waktu
 
 Beberapa hal yang kita temukan dari manipulasi data di atas diantaranya:
 1. Klien dengan tingkat ekonomi lower middle class dan middle class memilki persentase yang seimbang yaitu sebesar 7% untuk klien yang memiliki hutang pembayaran kredit.
 2. Klien dengan tingkat ekonomi poor memiliki kemungkinan untuk menunggak lebih besar yaitu 8%. Apakah ini dapat memengaruhi keputusan kita untuk tidak memberikan kredit mengingat jumlah mereka yang paling banyak.
 3. Klien dengan pendapatan upper middle class yang memiliki risiko paling kecil sebesar 6%.
 
-### 4. Korelasi antara tujuan kredit dengan kemampuan melunasi pinjaman tepat waktu
+#### 4. Korelasi antara tujuan kredit dengan kemampuan melunasi pinjaman tepat waktu
 
 Berdasarkan penganganan yang kita lakukan hal-hal yang bisa kita dapatkan:
 1. Klien yang melakukan pinjaman untuk keperluan car dan education memiliki risiko gagal bayar paling tinggi sebesar 9%.
