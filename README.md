@@ -5,7 +5,7 @@
 </p>
 
 # [Practicum](https://practicum.com/?from=nm)
-[Data Science](https://practicum.com/id-idn/data-scientist-beta/) [Practicum Indonesia](https://practicum.com/id-idn/)
+[Data Science](https://practicum.com/id-idn/data-scientist-beta/) Practicum Indonesia
 
 
 | Number | Project Name | Topic | Description | Libraries |
