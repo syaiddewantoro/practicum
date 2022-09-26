@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://practicum.com/id-idn/">
-    <img src="![image](https://user-images.githubusercontent.com/114304404/192153692-717e829d-f14e-4bd4-a06e-e4d3c86a4abb.png)" width="800" height="100">
+    <img src="![image](https://twitter.com/SyaidDewantoro/status/1574069058500059136/photo/1)" width="800" height="100">
   </a>
 </p>
 
@@ -12,4 +12,4 @@
 | :---: | --- | --- | --- | --- |
 | [1](https://github.com/syaiddewantoro/practicum/tree/main/1.music_project) | [Big Cities Music Project](https://github.com/syaiddewantoro/practicum/blob/main/1.music_project/music_project.ipynb) | Basic Python | Membandingkan preferensi musik kota Springfield dan Shelbyville | *[pandas](https://pandas.pydata.org/docs/user_guide/index.html)* |
 | [2](https://github.com/syaiddewantoro/practicum/tree/main/2.credit_scoring) | [Credit Scoring](https://github.com/syaiddewantoro/practicum/blob/main/2.credit_scoring/credit_scoring.ipynb) | Data Preprocesing | Pengaruh status perkawinan seorang nasabah dan jumlah anak yang dimilikinya terhadap probabilitas ketepatan waktu dalam melunasi pinjaman | *[pandas](https://pandas.pydata.org/docs/user_guide/index.html)*, *[numpy](https://numpy.org/doc/stable/user/index.html)* |
-
+| [3](https://github.com/syaiddewantoro/practicum/tree/main/3.vehicles_price) | [What Factors Sell a Car]() | Exploratory Data Analysis | Menentukan faktor-faktor yang memengaruhi harga sebuah kendaraan | *[pandas](https://pandas.pydata.org/docs/user_guide/index.html)*, *[numpy](https://numpy.org/doc/stable/user/index.html)*, matplotlib, seaborn |
