@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://practicum.com/id-idn/">
+    <img src="https://github.com/syaiddewantoro/resources/blob/main/project%20image/car%20sales.jpg" alt="drawing" width="600" height="400">
+  </a>
+</p>
 
 # Faktor Apakah yang Menjual Sebuah Mobil?
 
