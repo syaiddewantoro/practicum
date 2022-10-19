@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://practicum.com/id-idn/">
+    <img src="https://github.com/syaiddewantoro/resources/blob/main/project%20image/bank%20credit.png" alt="drawing" width="600" height="400">
+  </a>
+</p>
+
 # Menganalisis risiko peminjam gagal membayar
 
 Sebagai kredit analyst proyek kami ialah menyiapkan laporan untuk bank bagian kredit. Kami mencari tahu pengaruh status perkawinan seorang nasabah dan jumlah anak terhadap probabilitas ketepatan waktu dalam melunasi pinjaman. Bank sudah memiliki beberapa data mengenai kelayakan kredit nasabah.
