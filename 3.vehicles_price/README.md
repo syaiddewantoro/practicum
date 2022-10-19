@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://practicum.com/id-idn/">
-    <img src="https://github.com/syaiddewantoro/resources/blob/main/project%20image/car%20sales.jpg" alt="drawing" width="600" height="400">
+    <img src="https://github.com/syaiddewantoro/resources/blob/main/project%20image/car%20sales.jpg" alt="drawing" width="600" height="300">
   </a>
 </p>
 
