@@ -19,7 +19,7 @@ Studi ini untuk menjawab 5 hipostesis :
 
 Kita telah melakukan beberapa tahap dalam memproses data mobil untuk mendapatkan kesimpulan.
 
-**A. Tahap Praproses**
+###A. Tahap Praproses
 
 Dari eksplorasi yang kita lakukan kita mendapatkan beberapa konsklusi:
 1. Kita memulai dengan ukuran dataset sebanyak 51525 baris dan 13 kolom, ada 5 kolom yang terdapat missing value yaitu model_year, cylinders, odometer, paint_color, dan is_4wd.
@@ -27,14 +27,14 @@ Dari eksplorasi yang kita lakukan kita mendapatkan beberapa konsklusi:
 
 Penyebab nilai yang hilang, bisa diakibatkan karena human error atau memang tidak memiliki akses data yang cukup dengan kendaraan tersebut megingat beberapa kendaraan memiliki usia yang sangat tua bisa lebih dari seratus tahun
 
-**B. Tahap Esksplorasi**
+###B. Tahap Esksplorasi
 
 Setelah tahap prapemrosesan data kita melakukan beberapa ekplorasi:
 1. Menetapkan batas outliers dari kolom harga, usia, dan odometer, dan membuat dataset baru dengan jumlah baris sebanyak 46169.
 2. Kita juga memfilter untuk mendapatkan waktu iklan dengan rentang 1 - 150 hari.
 3. Kita mendapati bahwa tipe mobil yang paling populer adalah sedan dan SUV.
 
-**C. Konsklusi**
+###C. Konsklusi
 
 Dari eksplorasi yang kita lakukan kita mendapatkan beberapa konsklusi:
 1. Harga mobil terhadap usia memiliki koneksi negatif meskipun nilainya tidak terlalu tinggi, artinya mobil yang lebih baru akan memiliki harga yang lebih tinggi.
