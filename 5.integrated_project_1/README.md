@@ -28,7 +28,7 @@ This dataset contains abbreviations. ESRB stands for Entertainment Software Rati
 - We will change the case of column names and column value names to lowercase to make analysis easier.
 - We change the `release_year` and `user_score` column types to the appropriate types.
 - No duplicates were found.
-- 
+
 **2. Transformation Data** 
 
 - We create a new column called `global_sales` to calculate total sales from all over the world.
@@ -53,4 +53,5 @@ This dataset contains abbreviations. ESRB stands for Entertainment Software Rati
 
 **6. Recommendation**
 
-Based on our analysis, we can recommend selling more games for the **PS4** and **Xbox One** platforms because we predict that the two platforms will reach peak sales in **1 -- the next two years; for the **3DS** platform, we can still generate sales for the following year, but we must reduce supply. 
+- Based on the results of the analysis that we have done, we can provide recommendations to sell more games for the PS4 and Xbox One platforms because we can predict that these two platforms will reach peak sales in the next 1-2 years. For the 3DS platform, it can still generate sales for next year, but we have to reduce the supply.
+- For the North America and Europe regions, the games with the most potential come from the Action genre in the Mature category, while in the Japan region we will get more sales from games in the Role-Playing genre and the Teen category.
