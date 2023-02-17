@@ -19,7 +19,8 @@ We will develop a model that has the highest possible accuracy. In this project,
 
 ### 1. Data Preparation
 
-We begin by loading a dataset with **4** columns and **3214** rows; there are four **float** columns, namely **calls,** **minutes,** **messages,** and **mb_used.**- We change the **calls** and **messages** columns, which contain the number of calls and messages sent, to **int.**
+- We begin by loading a dataset with **4** columns and **3214** rows; there are four **float** columns, namely **calls,** **minutes,** **messages,** and **mb_used.**
+- We change the **calls** and **messages** columns, which contain the number of calls and messages sent, to **int.**
 
 ### 2. EDA and Data Visualization
 
