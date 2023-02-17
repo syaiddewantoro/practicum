@@ -1,3 +1,4 @@
+# Customers Plan Behavior
 
 ## Megaline (Introduce to Machine Learning)
 
@@ -18,14 +19,14 @@ We will develop a model that has the highest possible accuracy. In this project,
 
 ### 1. Data Preparation
 
-We begin by loading a dataset with **4** columns and **3214** rows; there are four **float** columns, namely "calls," "minutes," "messages," and "mb_used."- We change the "calls" and "messages" columns, which contain the number of calls and messages sent, to "int."
+We begin by loading a dataset with **4** columns and **3214** rows; there are four **float** columns, namely **calls,** **minutes,** **messages,** and **mb_used.**- We change the **calls** and **messages** columns, which contain the number of calls and messages sent, to **int.**
 
 ### 2. EDA and Data Visualization
 
-- According to the call volume graph, the average user makes 30-80 calls per month.
-- The average user spends 250-500 minutes per month on calls.
-- On average, users of both packages do not use their text message quota at all, this might be because they have switched to instant messaging or *chatting* applications that use internet data.
-- Users on both plans use approximately 10,000-20,000 MB of data per month.
+- According to the call volume graph, the average user makes **30-80** calls per month.
+- The average user spends **250-500** minutes per month on calls.
+- On average, users of both packages do not use their text message quota at all, this might be because they have switched to instant messaging or chatting applications that use internet data.
+- Users on both plans use approximately **10,000-20,000 MB** of data per month.
 
 ### 3. Split the Data
 - We directly divide the data into three types using the "fast_ml.model_development" library in the proportions of 70% for "training sets," 15% for "validation sets," and 15% for "test sets." 
