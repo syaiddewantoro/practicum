@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://practicum.com/id-idn/">
+    <img src="https://www.letstalk.com/app/uploads/2019/11/reachmobile2-1.jpeg" alt="drawing" width="600" height="300">
+  </a>
+</p>
 
 # Telecom Plans Analysis
 
