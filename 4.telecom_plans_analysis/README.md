@@ -1,6 +1,8 @@
 
 # Telecom Plans Analysis
 
+## Statistical Data Analysis
+
 As an analyst for the telecom operator Megaline, the company offers its clients two prepaid plans, Surf and Ultimate. The marketing department wants to discover which plans generate more revenue to adjust the advertising budget. We Will conduct a preliminary analysis of the plans based on a relatively small client selection.
 
 We will have the data on 500 Megaline clients: who they are, where they're from, which plan their use, and the number of calls their made and text messages they sent in 2018. Our job is to analyze the clients' behavior and determine which prepaid plan generates more revenue.
