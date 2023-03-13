@@ -6,54 +6,51 @@
 
 # Y.Music
 
-## Pendahuluan
+## Comparing Music Preferences Between Two Cities <a id='intro'></a>
+Whenever we do research, we need to formulate a hypothesis that we can then test. Sometimes we accept this hypothesis, but sometimes we also reject it. To make the right decisions, a business must be able to understand whether the assumptions it makes are correct or not.
 
-Setiap kali kita melakukan penelitian, kita perlu merumuskan hipotesis yang kemudian dapat kita uji. Terkadang kita menerima hipotesis ini; tetapi terkadang kita juga menolaknya. Untuk membuat keputusan yang tepat, sebuah bisnis harus dapat memahami apakah asumsi yang dibuatnya benar atau tidak.
+In today's project, you will compare the musical preferences of the cities of Springfield and Shelbyville. You will study actual Y.Music data to test the hypotheses below and compare user behavior in these two cities.
 
-Dalam proyek kali ini, Anda akan membandingkan preferensi musik kota Springfield dan Shelbyville. Anda akan mempelajari data Y.Music yang sebenarnya untuk menguji hipotesis di bawah ini dan membandingkan perilaku pengguna di kedua kota ini.
+## Objective:
+Testing three hypotheses:
+1. User activity varies depending on the day and city.
+2. On Monday mornings, residents of Springfield and Shelbyville tune in to different genres. It also applies to Friday nights.
+3. Listeners in Springfield and Shelbyville have different preferences. In Springfield, they prefer pop music, while in Shelbyville, rap music has more fans.
 
-## Tahapan
+## Stages
+Data about user behavior is stored in the file `/datasets/music_project_en.csv`. There needs to be more information about the data quality, so you need to check it before testing the hypothesis.
 
-Data tentang perilaku pengguna disimpan dalam berkas /datasets/music_project_en.csv. Tidak ada informasi tentang kualitas data, jadi Anda perlu memeriksanya lebih dahulu sebelum menguji hipotesis.
+First, you will evaluate the quality of the data and see if the problem is significant. Then, during data pre-processing, you will try to account for the most severe issues.
+ 
+The project will consist of three phases:
+  1. Data overview
+  2. Data pre-processing
+  3. Test the hypothesis
+  
+ ## Findings
 
-Pertama, Anda akan mengevaluasi kualitas data dan melihat apakah masalahnya signifikan. Kemudian, selama pra-pemrosesan data, Anda akan mencoba memperhitungkan masalah yang paling serius.
+ We have tested the following three hypotheses:
 
-Proyek ini akan terdiri dari tiga tahap:
+1. User activity varies depending on the day and city.
+2. On Monday mornings, residents of Springfield and Shelbyville tune in to different genres. It also applies to Friday nights.
+3. Listeners in Springfield and Shelbyville have different preferences. In both Springfield and Shelbyville, they preferred pop music.
 
-1. Ikhtisar data
-2. Pra-pemrosesan data
-3. Menguji hipotesis
+After analyzing the data, we can conclude:
 
-## Kesimpulan
+1. User activity in Springfield and Shelbyville depends on the day, even if the city is different.
 
-Hipotesis terbukti benar sebagian:
+The first hypothesis can be entirely accepted.
 
-Musik pop adalah genre paling populer di Springfield, seperti yang diharapkan.
-Namun, musik pop ternyata sama populernya baik di Springfield maupun di Shelbyville, dan musik rap tidak berada di 5 besar untuk kedua kota tersebut.
+2. Musical preferences were similar during a week in Springfield and Shelbyville. We can see a slight difference in the order on Monday, but:
+* In both Springfield and Shelbyville, most people listen to pop music.
 
-## Temuan
+So we cannot accept this hypothesis. We also have to remember that the results could have been different were it not for the missing values.
 
-Kita telah menguji tiga hipotesis berikut:
+3. The music preferences of users from Springfield and Shelbyville are very similar.
 
-1. Aktivitas pengguna berbeda-beda tergantung pada hari dan kotanya.
-2. Pada senin pagi, penduduk Springfield dan Shelbyville mendengarkan genre yang berbeda. Hal ini juga ini juga berlaku untuk Jumat malam.
-3. Pendengar di Springfield dan Shelbyville memiliki preferensi yang berbeda. Baik Springfield maupun di Shelbyville, mereka lebih suka musik pop.
+The third hypothesis is rejected. If there are differences in preference, it cannot be seen from this data.
 
-Setelah menganalisis data, kita dapat menyimpulkan:
+### Notes
+In real projects, research involves statistical hypothesis testing, which is more precise and more quantitative. Also, note that you can only sometimes conclude an entire city based on data from just one source.
 
-Aktivitas pengguna di Springfield dan Shelbyville bergantung pada harinya, walaupun kotanya berbeda.
-Hipotesis pertama dapat diterima sepenuhnya.
-
-Preferensi musik tidak terlalu berbeda selama seminggu di Springfield dan Shelbyville. Kita dapat melihat perbedaan kecil dalam urutan pada hari Senin, tetapi:
-
-1. Baik di Springfield maupun di Shelbyville, orang paling banyak mendengarkan musik pop.
-2. Jadi hipotesis ini tidak dapat kita terima. Kita juga harus ingat bahwa hasilnya bisa berbeda jika bukan karena nilai yang hilang.
-
-Ternyata preferensi musik pengguna dari Springfield dan Shelbyville sangat mirip.
-Hipotesis ketiga ditolak. Jika ada perbedaan preferensi, tidak dapat dilihat dari data ini.
-
-## Catatan
-
-Dalam proyek sesungguhnya, penelitian melibatkan pengujian hipotesis statistik, yang lebih tepat dan lebih kuantitatif. Perhatikan juga bahwa kamu tidak dapat selalu menarik kesimpulan tentang seluruh kota berdasarkan data dari satu sumber saja.
-
-Anda akan mempelajari pengujian hipotesis dalam sprint analisis data statistik.
+You'll study hypothesis testing in the statistical data analysis sprint.
