@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://practicum.com/id-idn/">
+    <img src="https://eco-cdn.iqpc.com/eco/images/channel_content/images/biggest_oil_and_gas_companies.webp" alt="drawing" width="600" height="300">
+  </a>
+</p>
+
 # Find the Best Place for a New Well
 
 ## OilyGiant
