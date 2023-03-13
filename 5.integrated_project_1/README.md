@@ -1,4 +1,7 @@
-# Ice Game Store (Integrated Project 1).
+# Which Games will Succeed
+
+## Integrated Project 1
+
 We work at the online store "Ice," which sells video games from around the world. Data regarding user and expert reviews of games, genres, platforms (e.g., Xbox or PlayStation), and historical game sales data is available from open sources. We need to identify the patterns that determine whether a game is successful or not. That way, we can find the games with the most potential and plan their advertising campaigns.
 
 We have data from 2016. We imagine that it is December of 2016, and we are planning a campaign for 2017.
