@@ -1,8 +1,14 @@
+<p align="center">
+  <a href="https://practicum.com/id-idn/">
+    <img src="https://truetexasbenefits.com/wp-content/uploads/2020/12/TTB-Blog-What-is-an-insurance-broker.jpg" alt="drawing" width="600" height="300">
+  </a>
+</p>
+
 # Obfuscating Client Data without Reducing Machine Learning Quality
 
 ## Linear Algebra
 
-An insurance company called "Sure Tomorrow" wants to solve some problems with the help of machine learning. You are asked to evaluate the possibility.
+An insurance company called Sure Tomorrow wants to solve some problems with the help of machine learning. You are asked to evaluate the possibility.
 
 **Goals:**
 
