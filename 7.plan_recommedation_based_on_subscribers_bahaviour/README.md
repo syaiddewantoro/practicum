@@ -41,4 +41,4 @@ We use several models with a number of settings in the parameters to get the bes
 4. The K-Nearest Neighbors Classifier Model produces a fairly good accuracy level of **76.9%** on the training test and a rate of **75%** on the validation test.The results of the *test set* are unfavorable because the accuracy level drops significantly to below the *threshold* with the number **71.8%**, indicating that this model cannot be used for *machine learning*.
 ### Main Conclusion
 
-With the 'max_dept' parameter set to **3,** we find the best model with the highest *accuracy* value and lowest *margin* in the **Decision Tree Model**. 
+With the `max_dept` parameter set to **3,** we find the best model with the highest *accuracy* value and lowest *margin* in the **Decision Tree Model**. 
