@@ -1,4 +1,4 @@
-# Comparing Gradient Boosting Methods with Random Forest, Decision Tree, and Linear Regression
+# Develop a Model to Determine the Price of a Car
 
 ## Numerical Method
  
