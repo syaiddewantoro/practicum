@@ -4,9 +4,9 @@
   </a>
 </p>
 
-# Y.Music
+# Comparing Music Preferences Between Two Cities <a id='intro'></a>
 
-## Comparing Music Preferences Between Two Cities <a id='intro'></a>
+## Basic Python
 Whenever we do research, we need to formulate a hypothesis that we can then test. Sometimes we accept this hypothesis, but sometimes we also reject it. To make the right decisions, a business must be able to understand whether the assumptions it makes are correct or not.
 
 In today's project, you will compare the musical preferences of the cities of Springfield and Shelbyville. You will study actual Y.Music data to test the hypotheses below and compare user behavior in these two cities.
