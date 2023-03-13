@@ -1,11 +1,17 @@
+<p align="center">
+  <a href="https://practicum.com/id-idn/">
+    <img src="https://www.sportsunfold.com/wp-content/uploads/2022/04/Steam-.webp" alt="drawing" width="600" height="300">
+  </a>
+</p>
+
 # Which Games will Succeed
 
 ## Integrated Project 1
 
-We work at the online store "Ice," which sells video games from around the world. Data regarding user and expert reviews of games, genres, platforms (e.g., Xbox or PlayStation), and historical game sales data is available from open sources. We need to identify the patterns that determine whether a game is successful or not. That way, we can find the games with the most potential and plan their advertising campaigns.
+We work at the online store Ice, which sells video games from around the world. Data regarding user and expert reviews of games, genres, platforms (e.g., Xbox or PlayStation), and historical game sales data is available from open sources. We need to identify the patterns that determine whether a game is successful or not. That way, we can find the games with the most potential and plan their advertising campaigns.
 
 We have data from 2016. We imagine that it is December of 2016, and we are planning a campaign for 2017.
-This dataset contains abbreviations. ESRB stands for Entertainment Software Rating Board, which is an independent regulatory organization that evaluates game content and gives an age rating such as "Teen" or "Mature."
+This dataset contains abbreviations. ESRB stands for Entertainment Software Rating Board, which is an independent regulatory organization that evaluates game content and gives an age rating such as Teen or Mature.
 
 **Goals :**
 
