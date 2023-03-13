@@ -4,45 +4,47 @@
   </a>
 </p>
 
-# Faktor Apakah yang Menjual Sebuah Mobil?
+# What Factors Sell a Car?
 
-Sebagai seorang analis di Crankshaft List. Ratusan iklan kendaraan gratis ditayangkan di situs web Perusahaan setiap hari. Tim kami perlu mempelajari kumpulan data selama beberapa tahun terakhir dan menentukan faktor-faktor yang memengaruhi harga sebuah kendaraan.
+## Exploratory Data Analysis
 
-## Goals
+As an analyst at Crankshaft List, hundreds of free vehicle advertisements are displayed on the Company's website daily. Our team needed to study datasets over the last few years and determine the factors that influence the price of a vehicle.
 
-Dalam project ini kita akan befokus pada Exploratory Data Analysis dan Data Visualization yang akan dapat membantu kita dalam mengidentifikasi outlier dalam data, menemukan pola dalam data, dan memberikan insight baru. Visualisasi data juga membantu menyampaikan cerita dengan menggambarkan data ke dalam bentuk visual yang lebih mudah dipahami, dan menyoroti tren.
+**Goals**
 
-Studi ini untuk menjawab 5 hipostesis :
-1. Apakah terdapat korelasi antara harga dengan usia kendaraan
-2. Apakah terdapat korelasi antara harga dengan jarak tempuh kendaraan
-3. Apakah terdapat korelasi antara harga dengan kondisi kendaraan
-4. Apakah terdapat korelasi antara harga dengan warna kendaraan
-5. Apakah terdapat korelasi antara harga dengan tipe transmisi kendaraan
+In this project, we will focus on Exploratory Data Analysis and Data Visualization, which will help us identify outliers in the data, find patterns and provide new insights. Data visualization also helps tell a story by depicting data in an easier-to-understand visual form and highlighting trends.
 
-## Kesimpulan Umum
+This study is to answer 5 hypotheses:
+1. Is there a correlation between the price and the age of the vehicle
+2. Is there a correlation between price and vehicle mileage
+3. Is there a correlation between the price and the condition of the vehicle
+4. Is there a correlation between the price and the color of the vehicle
+5. Is there a correlation between the price and the type of vehicle transmission
 
-Kita telah melakukan beberapa tahap dalam memproses data mobil untuk mendapatkan kesimpulan.
+## General Conclusion
 
-### A. Tahap Praproses
+We have carried out several stages in processing car data to draw conclusions.
 
-Dari eksplorasi yang kita lakukan kita mendapatkan beberapa konsklusi:
-1. Kita memulai dengan ukuran dataset sebanyak 51525 baris dan 13 kolom, ada 5 kolom yang terdapat missing value yaitu model_year, cylinders, odometer, paint_color, dan is_4wd.
-2. Langkah-langkah yang kita lakukan berikutnya adalah mengisi nilai dari kolom-kolom yang terdapat missing value, memperbaiki tipe data, memperbaiki kualitas data, dan menambahkan beberapa kolom.
+**A. Preprocessing Stage**
 
-Penyebab nilai yang hilang, bisa diakibatkan karena human error atau memang tidak memiliki akses data yang cukup dengan kendaraan tersebut megingat beberapa kendaraan memiliki usia yang sangat tua bisa lebih dari seratus tahun
+From our exploration, we get some conclusions:
+1. We start with a dataset size of **51525** rows and **13** columns, there are 5 columns that have *missing values* namely model_year, cylinders, odometer, paint_color, and is_4wd.
+2. The following steps are to fill in the values from the columns that have *missing values*, fix the data type, improve the data quality, and add a few columns.
 
-### B. Tahap Esksplorasi
+The cause of missing value can be caused by *human error* or simply not having enough data access with the vehicle, considering that some cars are ancient and can be more than one hundred years.
 
-Setelah tahap prapemrosesan data kita melakukan beberapa ekplorasi:
-1. Menetapkan batas outliers dari kolom harga, usia, dan odometer, dan membuat dataset baru dengan jumlah baris sebanyak 46169.
-2. Kita juga memfilter untuk mendapatkan waktu iklan dengan rentang 1 - 150 hari.
-3. Kita mendapati bahwa tipe mobil yang paling populer adalah sedan dan SUV.
+**B. Exploration Stage**
 
-### C. Konsklusi
+After the preprocessing data stage, we do some exploration:
+1. Set *outliers* limits from the price, age, and odometer columns, and create a new dataset with **46169** rows.
+2. We also filter to get ad time within the range **1 - 150 days**.
+3. We find that sedans and SUVs are the most popular types of cars.
 
-Dari eksplorasi yang kita lakukan kita mendapatkan beberapa konsklusi:
-1. Harga mobil terhadap usia memiliki koneksi negatif meskipun nilainya tidak terlalu tinggi, artinya mobil yang lebih baru akan memiliki harga yang lebih tinggi.
-2. Harga mobil dan rata-rata jarak memiliki korelasi yang sangat lemah.
-3. Harga dan kondisi menunjukan korelasi yang rendah.
-4. Mobil dengan warna hitam dan putih memiliki harga yang lebih tinggi dari warna lainnya.
-5. Sedangkan tipe transmisi tidak selalu menunjukan bahwa mobil matic akan lebih mahal dari mobil manual.
+**C. Conclusion**
+
+From our exploration, we get some conclusions:
+1. Car price versus age has a negative connection even if the value is not very high, meaning that a newer car will have a higher price.
+2. The price of a car and the average distance have a very weak correlation.
+3. Price and conditions show a low correlation.
+4. Cars in black and white have a higher price than other colors.
+5. The transmission type does not always indicate that an automatic car will be more expensive than a manual one.
