@@ -7,6 +7,21 @@
 # [Practicum](https://practicum.com/?from=nm)
 [Data Science](https://practicum.com/id-idn/data-scientist-beta/) Practicum Indonesia
 
+Welcome to my GitHub repository for my Data Science projects! This repository contains a collection of projects and analyses that I have conducted using various data science tools and techniques.
+
+In this repository, you will find Jupyter notebooks that showcase my skills in data cleaning, exploratory data analysis, statistical analysis, machine learning, and data visualization. The notebooks include detailed explanations of my thought process and the methods used in each project, making it easy for anyone to follow along and reproduce my results.
+
+The projects cover a variety of topics and domains, ranging from finance and economics to health and social sciences. Each project has been carefully selected to demonstrate my ability to apply data science techniques to real-world problems and derive meaningful insights.
+
+Some of the projects you will find in this repository include:
+
+    Predicting the housing prices in a given region using regression techniques
+    Analyzing the performance of different machine learning models on a mining company dataset
+    Visualizing the trends and patterns in taxi order data over time
+    Analyzing customer behavior and preferences to recommend personalized telecommunication products
+
+I hope that my work will inspire and motivate other data science enthusiasts to learn and experiment with new techniques and methods. Please feel free to explore my projects and provide any feedback or suggestions for improvement.
+
 
 | Number | Project Name | Topic | Description | Libraries |
 | :---: | --- | --- | --- | --- |
