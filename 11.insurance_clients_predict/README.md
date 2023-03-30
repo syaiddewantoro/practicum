@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://practicum.com/id-idn/">
-    <img src="https://i0.wp.com/city-airport-taxis.com/blog/wp-content/uploads/2017/07/Airport-Taxi-Services.jpg?fit=620%2C350&ssl=1" alt="drawing" width="550" height="350">
+    <img src="https://truetexasbenefits.com/wp-content/uploads/2020/12/TTB-Blog-What-is-an-insurance-broker.jpg" alt="drawing" width="550" height="300">
   </a>
 </p>
 
