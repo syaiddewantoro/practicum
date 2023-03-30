@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://practicum.com/id-idn/">
-    <img src="https://www.mining-technology.com/wp-content/uploads/sites/19/2020/10/Feature-Image-top-ten-metals-and-mining-companies.jpg" alt="drawing" width="600" height="300">
+    <img src="https://www.mining-technology.com/wp-content/uploads/sites/19/2020/10/Feature-Image-top-ten-metals-and-mining-companies.jpg" alt="drawing" width="600" height="350">
   </a>
 </p>
 
