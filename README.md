@@ -11,7 +11,7 @@ Welcome to my GitHub repository for my Data Science projects! This repository co
 
 In this repository, you will find Jupyter notebooks that showcase my skills in data cleaning, exploratory data analysis, statistical analysis, machine learning, and data visualization. The notebooks include detailed explanations of my thought process and the methods used in each project, making it easy for anyone to follow along and reproduce my results.
 
-The projects cover a variety of topics and domains, ranging from finance and economics to health and social sciences. Each project has been carefully selected to demonstrate my ability to apply data science techniques to real-world problems and derive meaningful insights.
+The projects cover a wide range of topics and domains, from finance and economics to mining and forecasting. Each project has been carefully selected to demonstrate my ability to apply data science techniques to real-world problems and derive meaningful insights.
 
 Some of the projects you will find in this repository include:
 
