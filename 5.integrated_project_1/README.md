@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://practicum.com/id-idn/">
-    <img src="https://www.sportsunfold.com/wp-content/uploads/2022/04/Steam-.webp" alt="drawing" width="600" height="300">
+    <img src="https://www.sportsunfold.com/wp-content/uploads/2022/04/Steam-.webp" alt="drawing" width="600" height="350">
   </a>
 </p>
 
