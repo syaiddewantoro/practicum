@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://practicum.com/id-idn/">
-    <img src="https://truetexasbenefits.com/wp-content/uploads/2020/12/TTB-Blog-What-is-an-insurance-broker.jpg" alt="drawing" width="600" height="300">
+    <img src="https://truetexasbenefits.com/wp-content/uploads/2020/12/TTB-Blog-What-is-an-insurance-broker.jpg" alt="drawing" width="550" height="300">
   </a>
 </p>
 
