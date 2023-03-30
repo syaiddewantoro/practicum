@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://practicum.com/id-idn/">
-    <img src="https://appscrip.com/blog/wp-content/uploads/2022/07/444555.webp" alt="drawing" width="600" height="350">
+    <img src="https://appscrip.com/blog/wp-content/uploads/2022/07/444555.webp" alt="drawing" width="600" height="300">
   </a>
 </p>
 
