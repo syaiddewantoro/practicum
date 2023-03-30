@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://practicum.com/id-idn/">
-    <img src="https://pbs.twimg.com/media/FFoacPyVcAAhgPF?format=jpg&name=medium" alt="drawing" width="600" height="300">
+    <img src="https://pbs.twimg.com/media/FFoacPyVcAAhgPF?format=jpg&name=medium" alt="drawing" width="600" height="350">
   </a>
 </p>
 
