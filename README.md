@@ -15,10 +15,10 @@ The projects cover a variety of topics and domains, ranging from finance and eco
 
 Some of the projects you will find in this repository include:
 
-    Predicting the housing prices in a given region using regression techniques
-    Analyzing the performance of different machine learning models on a mining company dataset
-    Visualizing the trends and patterns in taxi order data over time
-    Analyzing customer behavior and preferences to recommend personalized telecommunication products
+   * Predicting the housing prices in a given region using regression techniques
+   * Analyzing the performance of different machine learning models on a mining company dataset
+   * Visualizing the trends and patterns in taxi order data over time
+   * Analyzing customer behavior and preferences to recommend personalized telecommunication products
 
 I hope that my work will inspire and motivate other data science enthusiasts to learn and experiment with new techniques and methods. Please feel free to explore my projects and provide any feedback or suggestions for improvement.
 
