@@ -2,11 +2,11 @@
 
 # Churn Rate Forecasting for Telecom Operator: Leveraging Client Data for Promotional Strategies
 
-## Final Project Description <a class="anchor" id="Project_Description"></a>
+## 1. Final Project Description <a class="anchor" id="Project_Description"></a>
 
 A telecom operator called Interconnect wants to forecast their clients' *churn* rate.󠀲󠀡󠀠󠀥󠀨󠀣󠀤󠀡󠀳󠀰 If it is known that a client is planning to quit, the client will be offered promotional codes and special plan options.󠀲󠀡󠀠󠀥󠀨󠀣󠀤󠀢󠀳󠀰 Interconnect's marketing team has collected some of the client's data, including information about the chosen data plan and their contract.
 
-## Interconnect Service <a class="anchor" id="Layanan_Interconnet"></a>
+## 2. Interconnect Service <a class="anchor" id="Layanan_Interconnet"></a>
 
 󠀰Interconnect provides two main types of services:
 
@@ -22,7 +22,7 @@ A telecom operator called Interconnect wants to forecast their clients' *churn* 
 
 Clients can make monthly payments or sign a contract for a 1 or 2-year subscription.󠀲󠀡󠀠󠀥󠀨󠀣󠀥󠀥󠀳󠀰 They can use various payment methods and receive electronic bills after making transactions.
 
-## Data Description <a class="anchor" id="Deskripsi Data"></a>
+## 3. Data Description <a class="anchor" id="Deskripsi Data"></a>
 
 󠀰The available data consists of several *files* obtained from different sources:
 
@@ -35,7 +35,7 @@ In each *file*, you can find the `customerID` field with a unique code assigned 
 
 Contract information is valid as of February 1, 2020.
 
-## Work Plans <a class="anchor" id="Work_Plans"></a>
+## 4. Work Plans <a class="anchor" id="Work_Plans"></a>
 
 - Defining the problem: Identifying the problem to be solved and answering questions such as predicting the customer churn rate, what factors make clients stop using the service, and what options or customized packages suit the customer's needs.
 
@@ -55,9 +55,9 @@ Contract information is valid as of February 1, 2020.
 
 - Communication and reporting: Communicating results and insights to stakeholders in the project times a team leader clearly and understandably, such as creating visualizations, presentations, or reports.
 
-## Report
+## 5. Report
 
-### 6.1. Report on Telco Customer Churn Project
+### 5.1. Report on Telco Customer Churn Project
 
 #### Introduction:
 
@@ -112,11 +112,11 @@ The findings indicate that, to varied degrees, machine learning models might acc
 
 The findings of several experiment show that machine learning models can be employed to forecast customer churn for a telecoms business. With the highest ROC-AUC score on the test set, the Artificial Neural Network model is the most effective for this task. The logistic regression and random forest models both had good results and might be used as alternatives. The organization can utilize the predictive model created in this project to spot clients likely to leave and take proactive steps to keep them.
 
-### Conclusion
+### 5.2. Conclusion
 
 The findings of this project demonstrate the feasibility of using machine learning models to forecast customer churn in the telecom sector. With a ROC-AUC score of 85%, the Artificial Neural Network model had the best performance. By analyzing feature importance, a business can learn which characteristics are most crucial for predicting churn and take proactive steps to keep clients. Overall, this research shows how data science and machine learning can be used to solve business problems like customer turnover.
 
-### Recommendation
+### 5.3. Recommendation
 
 Based on the influencing characteristics in the prediction model, some of the following suggestions can assist telecom business Interconnect in lowering customer attrition rates:
 
