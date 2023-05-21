@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://practicum.com/id-idn/">
+    <img src="https://b2633864.smushcdn.com/2633864/wp-content/uploads/2020/04/opencv_age_detection_examples.jpg?lossy=1&strip=1&webp=1" alt="drawing" width="800" height="300">
+  </a>
+</p>
+
 # Age Verification Model for Ensuring Compliance in Retail
 
 ## Computer Vision
