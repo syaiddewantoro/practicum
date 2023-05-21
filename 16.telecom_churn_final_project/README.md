@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://practicum.com/id-idn/">
-    <img src="https://www.precisely.com/app/uploads/2021/09/Creating-an-Omnichannel-Customer-Experience-in-the-Telco-Industry-768x512.jpg" alt="drawing" width="600" height="350">
+    <img src="https://www.precisely.com/app/uploads/2021/09/Creating-an-Omnichannel-Customer-Experience-in-the-Telco-Industry-768x512.jpg" alt="drawing" width="600" height="400">
   </a>
 </p>
 
