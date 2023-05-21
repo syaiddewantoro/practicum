@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://practicum.com/id-idn/">
+    <img src="https://www.precisely.com/app/uploads/2021/09/Creating-an-Omnichannel-Customer-Experience-in-the-Telco-Industry-768x512.jpg" alt="drawing" width="600" height="350">
+  </a>
+</p>
 
 # Churn Rate Forecasting for Telecom Operator: Leveraging Client Data for Promotional Strategies
 
