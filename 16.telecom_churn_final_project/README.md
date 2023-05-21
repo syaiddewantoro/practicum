@@ -31,7 +31,7 @@ Clients can make monthly payments or sign a contract for a 1 or 2-year subscript
 - `internet.csv` - information about Internet services
 - `phone.csv` - information about phone service
 
-In each *file*, you can find the `customerID` field with a unique code assigned to each client.
+In each *file*, we can find the `customerID` field with a unique code assigned to each client.
 
 Contract information is valid as of February 1, 2020.
 
