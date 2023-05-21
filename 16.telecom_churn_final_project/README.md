@@ -6,7 +6,7 @@
 
 A telecom operator called Interconnect wants to forecast their clients' *churn* rate.󠀲󠀡󠀠󠀥󠀨󠀣󠀤󠀡󠀳󠀰 If it is known that a client is planning to quit, the client will be offered promotional codes and special plan options.󠀲󠀡󠀠󠀥󠀨󠀣󠀤󠀢󠀳󠀰 Interconnect's marketing team has collected some of the client's data, including information about the chosen data plan and their contract.
 
-#3 Interconnect Service <a class="anchor" id="Layanan_Interconnet"></a>
+## Interconnect Service <a class="anchor" id="Layanan_Interconnet"></a>
 
 󠀰Interconnect provides two main types of services:
 
